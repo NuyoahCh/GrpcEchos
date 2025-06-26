@@ -1,3 +1,8 @@
+# GrpcEchos
+
+An in-depth journey into grpc-go: from basic RPCs to advanced streaming, interceptors, and beyond.
+（一次深入 grpc-go 的学习之旅：从基础 RPC 到高级流式通信、拦截器及更多）
+
 # gRPC-Go
 
 [![GoDoc](https://pkg.go.dev/badge/google.golang.org/grpc)][API]
